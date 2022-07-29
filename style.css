@@ -57,3 +57,16 @@
 }
 
 /* footer */
+.footer-p {
+    display: flex;
+    width: 800px;
+    height: 70px;
+    margin: auto;
+    padding: 30px;
+
+
+}
+
+.color {
+    color: rgb(6, 7, 7);
+}
