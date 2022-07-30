@@ -68,3 +68,7 @@
 .visible {
     visibility: hidden !important;
 }
+
+.modal {
+    align-items: center;
+}
